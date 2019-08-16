@@ -751,7 +751,7 @@ button:focus {
 .cv_exp .cv_exp_box .cb_exp_detail {
     text-align: right;
     margin-left: 15px;
-    float: left;
+/*     float: left; */
     border-radius: 0;
 }
 
